@@ -16,7 +16,7 @@ function App() {
         </h1>
 
         <p className="text-slate-400">
-          Interfaz moderna sin IDE pesado
+          Interfaz moderna sin IDE pesado wey
         </p>
 
         <button className="w-full bg-blue-600 hover:bg-blue-500 
